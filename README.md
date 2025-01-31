@@ -3,6 +3,7 @@
 - 🌱 Actualmente trabajando en el campo de la bioinformática y bioestadística
 - 💞️ Buscando colaborar con todo al que pueda aportar mi experiencia 
 - 📫 basketadatacebollada@gmail.com
+- <- Buena imagen hecha con IA 
 
 
 <!---
