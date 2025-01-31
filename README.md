@@ -3,7 +3,7 @@
 - 🌱 Actualmente trabajando en el campo de la bioinformática y bioestadística
 - 💞️ Buscando colaborar con todo al que pueda aportar mi experiencia 
 - 📫 basketadatacebollada@gmail.com
-- ⚡ Actualmente aprendiendo tambien Euskera
+
 
 <!---
 basketDataCebollada/basketDataCebollada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
